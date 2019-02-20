@@ -1,0 +1,2 @@
+# ios-EmojiPassword-UIsimulator
+For the course COMP3008 (2017) at Carleton, my team and I decided to analyze the effectiveness and user response of using a collection of emoji's for iOS authentication rather than a digit or alphanumeric based system. Project involved implementing the demo functionality on iOS, analysis of comparable authentication methods, and a formal report of assessment. I encourage you to read the Project2Report.pdf for user interface scoring, analysis, and screenshots of the working demo on iOS!
